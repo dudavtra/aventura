@@ -6,13 +6,12 @@ body{
    height: 700px;
    margin: 0;
 
-
 }
 
  button{
  background-color: aquamarine;    
   color: aliceblue;
-  font-family:"bai jamjuree" ;
+  font-family:"bai jamjuree", sans-serif ;
 
 
  }
